@@ -1,0 +1,3 @@
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 4500 
+RewriteRule ^(.*)$ http://localhost:4500/$1 [R,L]

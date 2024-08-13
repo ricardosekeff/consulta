@@ -1,0 +1,218 @@
+<root>
+	<element>
+		<codigo>000000050</codigo>
+		<status>pago</status>
+		<nome_parceiro>ppppppppppp</nome_parceiro>
+		<parceiro_telefone>0000000000000</parceiro_telefone>
+		<nome_cliente>tststst</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>00000000000</cpf>
+		<cliente_telefone>(86)994854215</cliente_telefone>
+		<total>45.00</total>
+		<data_criacao>2019&#45;03&#45;09 17:43:56</data_criacao>
+	</element>
+	<element>
+		<codigo>000000049</codigo>
+		<status>pago</status>
+		<nome_parceiro>oooooooo</nome_parceiro>
+		<parceiro_telefone>86999656554</parceiro_telefone>
+		<nome_cliente>tststst</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>00000000000</cpf>
+		<cliente_telefone>(86)994854215</cliente_telefone>
+		<total>20.00</total>
+		<data_criacao>2019&#45;03&#45;08 22:40:32</data_criacao>
+	</element>
+	<element>
+		<codigo>000000048</codigo>
+		<status>pago</status>
+		<nome_parceiro>oooooooo</nome_parceiro>
+		<parceiro_telefone>86999656554</parceiro_telefone>
+		<nome_cliente>tststst</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>00000000000</cpf>
+		<cliente_telefone>(86)994854215</cliente_telefone>
+		<total>24.00</total>
+		<data_criacao>2019&#45;03&#45;08 22:39:46</data_criacao>
+	</element>
+	<element>
+		<codigo>000000047</codigo>
+		<status>pendente</status>
+		<nome_parceiro>carnaval</nome_parceiro>
+		<parceiro_telefone>86 99999999</parceiro_telefone>
+		<nome_cliente>Gleydson Henrique Lima de Matos</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>04596651388</cpf>
+		<cliente_telefone>(86)999656554</cliente_telefone>
+		<total>40.00</total>
+		<data_criacao>2019&#45;03&#45;08 22:18:59</data_criacao>
+	</element>
+	<element>
+		<codigo>000000046</codigo>
+		<status>pendente</status>
+		<nome_parceiro>gleydson analista</nome_parceiro>
+		<parceiro_telefone>(86)999656554</parceiro_telefone>
+		<nome_cliente>Rafael Cardoso Coelho</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>05403372342</cpf>
+		<cliente_telefone>(86)999599488</cliente_telefone>
+		<total>95.00</total>
+		<data_criacao>2019&#45;03&#45;07 19:43:24</data_criacao>
+	</element>
+	<element>
+		<codigo>1700001551664448</codigo>
+		<status>pendente</status>
+		<nome_parceiro>teste gleydson</nome_parceiro>
+		<parceiro_telefone>0000000000000</parceiro_telefone>
+		<nome_cliente>Gleydson Henrique Lima de Matos</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>04596651388</cpf>
+		<cliente_telefone>(86)999656554</cliente_telefone>
+		<total>200.00</total>
+		<data_criacao>2019&#45;03&#45;03 22:54:07</data_criacao>
+	</element>
+	<element>
+		<codigo>2500001551197362</codigo>
+		<status>pendente</status>
+		<nome_parceiro>Analista Rafael</nome_parceiro>
+		<parceiro_telefone>(86)999599488</parceiro_telefone>
+		<nome_cliente>Franciane da silva </nome_cliente>
+		<nome_social></nome_social>
+		<cpf>52527845964</cpf>
+		<cliente_telefone>(86)988272830</cliente_telefone>
+		<total>20.00</total>
+		<data_criacao>2019&#45;02&#45;26 13:09:20</data_criacao>
+	</element>
+	<element>
+		<codigo>2500001551197361</codigo>
+		<status>pendente</status>
+		<nome_parceiro>gleydson analista</nome_parceiro>
+		<parceiro_telefone>(86)999656554</parceiro_telefone>
+		<nome_cliente>Franciane da silva </nome_cliente>
+		<nome_social></nome_social>
+		<cpf>52527845964</cpf>
+		<cliente_telefone>(86)988272830</cliente_telefone>
+		<total>40.00</total>
+		<data_criacao>2019&#45;02&#45;26 13:09:20</data_criacao>
+	</element>
+	<element>
+		<codigo>2300001551105664</codigo>
+		<status>pendente</status>
+		<nome_parceiro>Analista Rafael</nome_parceiro>
+		<parceiro_telefone>(86)999599488</parceiro_telefone>
+		<nome_cliente>fernando da silva</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>33333333333</cpf>
+		<cliente_telefone>(86)32213477</cliente_telefone>
+		<total>150.00</total>
+		<data_criacao>2019&#45;02&#45;25 11:41:04</data_criacao>
+	</element>
+	<element>
+		<codigo>2300001551105349</codigo>
+		<status>pendente</status>
+		<nome_parceiro>gleydson analista</nome_parceiro>
+		<parceiro_telefone>(86)999656554</parceiro_telefone>
+		<nome_cliente>fernando da silva</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>33333333333</cpf>
+		<cliente_telefone>(86)32213477</cliente_telefone>
+		<total>95.00</total>
+		<data_criacao>2019&#45;02&#45;25 11:35:48</data_criacao>
+	</element>
+	<element>
+		<codigo>2200001551103915</codigo>
+		<status>pendente</status>
+		<nome_parceiro>Analista Rafael</nome_parceiro>
+		<parceiro_telefone>(86)999599488</parceiro_telefone>
+		<nome_cliente>ELISA MARIA</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>66666666666</cpf>
+		<cliente_telefone>(08)632213077</cliente_telefone>
+		<total>80.00</total>
+		<data_criacao>2019&#45;02&#45;25 11:11:55</data_criacao>
+	</element>
+	<element>
+		<codigo>2000001551101250</codigo>
+		<status>pendente</status>
+		<nome_parceiro>gleydson analista</nome_parceiro>
+		<parceiro_telefone>(86)999656554</parceiro_telefone>
+		<nome_cliente>teste</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>77777777770</cpf>
+		<cliente_telefone>(86)988142135</cliente_telefone>
+		<total>40.00</total>
+		<data_criacao>2019&#45;02&#45;25 10:27:29</data_criacao>
+	</element>
+	<element>
+		<codigo>2000001551101182</codigo>
+		<status>pendente</status>
+		<nome_parceiro>Analista Rafael</nome_parceiro>
+		<parceiro_telefone>(86)999599488</parceiro_telefone>
+		<nome_cliente>teste</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>77777777770</cpf>
+		<cliente_telefone>(86)988142135</cliente_telefone>
+		<total>40.00</total>
+		<data_criacao>2019&#45;02&#45;25 10:26:21</data_criacao>
+	</element>
+	<element>
+		<codigo>1900001550954326</codigo>
+		<status>pago</status>
+		<nome_parceiro>Analista Rafael</nome_parceiro>
+		<parceiro_telefone>(86)999599488</parceiro_telefone>
+		<nome_cliente>tststst</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>00000000000</cpf>
+		<cliente_telefone>(86)994854215</cliente_telefone>
+		<total>150.00</total>
+		<data_criacao>2019&#45;02&#45;23 17:38:45</data_criacao>
+	</element>
+	<element>
+		<codigo>1900001550953716</codigo>
+		<status>pendente</status>
+		<nome_parceiro>gleydson analista</nome_parceiro>
+		<parceiro_telefone>(86)999656554</parceiro_telefone>
+		<nome_cliente>tststst</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>00000000000</cpf>
+		<cliente_telefone>(86)994854215</cliente_telefone>
+		<total>175.00</total>
+		<data_criacao>2019&#45;02&#45;23 17:28:35</data_criacao>
+	</element>
+	<element>
+		<codigo>1200001550627252</codigo>
+		<status>pago</status>
+		<nome_parceiro>Analista Rafael</nome_parceiro>
+		<parceiro_telefone>(86)999599488</parceiro_telefone>
+		<nome_cliente>Rafael Cardoso Coelho</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>05403372342</cpf>
+		<cliente_telefone>(86)999599488</cliente_telefone>
+		<total>150.00</total>
+		<data_criacao>2019&#45;02&#45;19 22:47:30</data_criacao>
+	</element>
+	<element>
+		<codigo>1200001550627251</codigo>
+		<status>pendente</status>
+		<nome_parceiro>gleydson analista</nome_parceiro>
+		<parceiro_telefone>(86)999656554</parceiro_telefone>
+		<nome_cliente>Rafael Cardoso Coelho</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>05403372342</cpf>
+		<cliente_telefone>(86)999599488</cliente_telefone>
+		<total>95.00</total>
+		<data_criacao>2019&#45;02&#45;19 22:47:30</data_criacao>
+	</element>
+	<element>
+		<codigo>1700001550626188</codigo>
+		<status>pendente</status>
+		<nome_parceiro>gleydson analista</nome_parceiro>
+		<parceiro_telefone>(86)999656554</parceiro_telefone>
+		<nome_cliente>Gleydson Henrique Lima de Matos</nome_cliente>
+		<nome_social></nome_social>
+		<cpf>04596651388</cpf>
+		<cliente_telefone>(86)999656554</cliente_telefone>
+		<total>95.00</total>
+		<data_criacao>2019&#45;02&#45;19 22:29:47</data_criacao>
+	</element>
+</root>
